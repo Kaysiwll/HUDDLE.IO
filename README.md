@@ -4,7 +4,7 @@
 
 ## Introdução
 
-![Preview](/design/desktop-preview.jpg)
+![Preview](/Design/desktop-preview.jpg)
 
  Esta é minha solução para o décimo desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0), o desafio foi realizado em sala de aula para fins avaliativos e para fixar conceitos aprendidos.
 
